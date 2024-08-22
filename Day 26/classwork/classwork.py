@@ -5,9 +5,15 @@ day = 24
 Day = (hour * day)
 print(Day)
 
+print(60*60*24)
+
 #2)
 cost = int(input("please enter price:"))
 print(cost + 87)
+
+#second solution
+
+print("price:" +  "87" + '$')
 
 #3)
 print("Nickname:Master")
