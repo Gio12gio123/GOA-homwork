@@ -5,20 +5,20 @@ body{
 main{
     height: 1200px;
     width: 1200px;
-        display:flex
+    display:flex
         
 }
     
 div{
-        height: 600px;
-        width: 700px;
-        background-color: rgb(255, 255, 255);
-        color: white;
-        text-align: center;
-        font-family: cursive;
+    height: 600px;
+    width: 700px;
+    background-color: rgb(255, 255, 255);
+    color: white;
+    text-align: center;
+    font-family: cursive;
         
-        border-radius: 5%;
-        text-transform: uppercase;
+    border-radius: 5%;
+    text-transform: uppercase;
     }
  
 
