@@ -99,5 +99,6 @@ def calculate_average(numbers):
 
 numbers_list = [10, 20, 30, 40, 50]
 average_value = calculate_average(numbers_list)
+separate_even_odd
 
 
