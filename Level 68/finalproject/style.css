@@ -6,6 +6,7 @@
 
 body {
     display: flex;
+    background-color: aliceblue;
     flex-direction: column;
     height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
